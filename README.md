@@ -4,6 +4,6 @@ In an effort to demonstrate one of the core tenets of scientific inquiry: reprod
 
 The data is open source, making the workflow detailed in our code easily reproducible. You can find .csvs of the raw counts and metadata hosted by the Broad Institute, [here](https://singlecell.broadinstitute.org/single_cell/study/SCP1307/single-cell-profiling-of-environmental-enteropathy-reveals-signatures-of-epithelial-remodeling-and-immune-activation-in-severe-disease#study-download).
 
-Note: The raw counts file exceeds the 2GB upload size allotted by GitHub LFS, so you'll need to download it to your local directory for analysis since it won't be included in this repo.
+Note: Since the individual files exceed 2GB allotted by `git lfs` they won't be included in this repo.
 
 We'll be working with ~25k cells, derived from scRNA-seq done on 33 small intestinal biopsies split between healthy and Environmental enteropathy-presenting individuals.
