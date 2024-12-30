@@ -2,7 +2,7 @@
 
 In an effort to demonstrate one of the core tenets of scientific inquiry: reproducibility, this project aims to reproduce the UMAP plot in Figure 1C of [this](https://pubmed.ncbi.nlm.nih.gov/36044598/) paper.
 
-Can we reproduce the RNA expression signatures found in the intestines, stratified by the fore- and mid-gut region of the duodenum and jejunum?
+Can we reproduce the RNA expression patterns found in the intestines, stratified by the fore- and mid-gut region of the duodenum and jejunum?
 
 You can find the raw counts and metadata files hosted by the Broad Institute, [here](https://singlecell.broadinstitute.org/single_cell/study/SCP1307/single-cell-profiling-of-environmental-enteropathy-reveals-signatures-of-epithelial-remodeling-and-immune-activation-in-severe-disease#study-download).
 
